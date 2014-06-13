@@ -6,7 +6,7 @@
 # catalog-version 2.142
 Name:		texlive-todo
 Version:	2.142
-Release:	6
+Release:	7
 Summary:	Make a to-do list for a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/todo
