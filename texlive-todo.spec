@@ -1,6 +1,6 @@
 Name:		texlive-todo
 Version:	17746
-Release:	1
+Release:	2
 Summary:	Make a to-do list for a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/todo
