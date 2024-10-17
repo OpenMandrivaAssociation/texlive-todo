@@ -3,7 +3,7 @@ Version:	17746
 Release:	2
 Summary:	Make a to-do list for a document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/todo
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/todo
 License:	LPPL1
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/todo.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/todo.doc.r%{version}.tar.xz
